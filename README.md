@@ -1,36 +1,33 @@
-# Data Analysis Project
-
+# Music Trends Analysis (Spotify Audio Features)
+Analyzing music trends based on Spotify audio features, song popularity, and recommendation system efficiency. Interactive Tableau dashboard can be found [here].
 ## Overview
-This project explores data analysis techniques using Principal Component Analysis (PCA), K-Means clustering, and Hypothesis Testing. The objective is to analyze the trends of music based on audio features, song popularity, and recommendation system efficiency using a dataset from Spotify
+This project explores data analysis techniques using Principal Component Analysis (PCA), K-Means clustering, and Hypothesis Testing. The goal is to analyze trends in music based on various audio features and assess the factors influencing song popularity.
 
-## Research Question
+## Research Questions
 1. Which songs have popularity >= 80, and who are their artists? What are the commonalities of their songs?
-2. Will key and mode affect the song popularity?
+2. Will key and mode affect the song's popularity?
 3. Spotify sometimes recommends songs that have similar audio features. Does the weight on this recommendation algorithm perform well?
 
+## Key Metrics and Dimensions
+- **Popularity**: The popularity score of each song (range: 0-100).
+- **Audio Features**: Characteristics such as tempo, loudness, energy, and danceability.
+- **Key & Mode**: Tonal properties that might influence popularity.
+- **Recommendation Efficiency**: Evaluation of Spotify’s recommendation algorithm.
 
 
+## Summary of Insights
+### Popular Songs Analysis
+- High-popularity songs share common attributes in tempo and energy.
+- Some artists consistently produce high-popularity songs, contributing to trends in the industry.
+### Key and Mode Analysis
+- Statistical testing showed that certain keys and modes correlate with higher popularity, though not conclusively.
+### Recommendation Algorithm Analysis 
+- The effectiveness of Spotify’s recommendation system was assessed, with suggestions for improving weighting of audio features.
 
-
-## Features and Methodology
-
-- **Data Preprocessing**: Perform correlation matrix analysis and PCA for dimensionality reduction.
-- **K-Means Clustering**: Analyze the most popular songs and their common characteristics.
-- **Hypothesis Testing**: Validates the statistical significance of key and mode on song popularity.
-- **Tableau for Data Visualization**: Generates insightful plots to interpret clustering results, PCA transformation, hypothesis test outcomes, and a visualization of the summary of audio features to identify trends in popular music.
-
-## Technologies Used
-
-- Python
-- Pandas & NumPy
-- Scikit-learn
-- SciPy
-- Matplotlib & Seaborn
-- Tableau
-
-## Future Improvements
-
-To be announced
+## Recommendations & Next Steps
+- Feature Selection Improvements: Refine feature selection methods to improve clustering and trend identification.
+- Algorithm Adjustments: Suggest modifications to Spotify’s recommendation system based on findings.
+- Data Visualization Enhancements: Enhance interactive Tableau dashboards to provide deeper insights into trends.
 
 ## Contact
 Feel free to reach out:
