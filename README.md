@@ -2,7 +2,8 @@
 Analyzing music trends based on Spotify audio features, song popularity, and recommendation system efficiency. Interactive Tableau dashboard can be found [here].
 ## Overview
 This project explores data analysis techniques using Principal Component Analysis (PCA), K-Means clustering, and Hypothesis Testing. The goal is to analyze trends in music based on various audio features and assess the factors influencing song popularity.
-
+## Click this link to see visualizations:
+[Spotify Analysis Visualizations](https://wanjing4.github.io/Spotify-Analysis/)
 ## Research Questions
 1. Which songs have popularity >= 80, and who are their artists? What are the commonalities of their songs?
 2. Will key and mode affect the song's popularity?
