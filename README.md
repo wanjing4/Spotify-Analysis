@@ -6,12 +6,12 @@ The goal of this project is to analyze music trends based on various audio featu
 ## Research Questions
 #### [1. Which songs have popularity >= 80, and who are their artists? What are the commonalities of their songs?](#popular-songs-analysis)
 #### [2. Will key and mode affect the song's popularity?](#key-and-mode-analysis)
-#### 3. Spotify sometimes recommends songs that have similar audio features. Does the weight on this recommendation algorithm perform well?
+#### [3. Spotify sometimes recommends songs that have similar audio features. Does the weight on this recommendation algorithm perform well?](#spotify-recommendation-analysis)
 
 ## Key Metrics and Dimensions
 - **Popularity**: The popularity score of each song (range: 0-100).
 - **Audio Features**: Characteristics such as tempo, loudness, energy, and danceability.
-- **Key & Mode**: Tonal properties that might influence popularity.
+- **Key and Mode**: Tonal properties that might influence popularity.
 - **Recommendation Efficiency**: Evaluation of Spotify’s recommendation algorithm.
 
 
