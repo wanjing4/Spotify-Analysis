@@ -1,13 +1,12 @@
 # Music Trends Analysis (Spotify Audio Features)
-Analyzing music trends based on Spotify audio features, song popularity, and recommendation system efficiency. Interactive Tableau dashboard can be found [here].
+Analyzing music trends based on Spotify audio features, song popularity, and recommendation system efficiency. Interactive Tableau dashboard can be found [here](https://wanjing4.github.io/Spotify-Analysis/).
 ## Overview
-This project explores data analysis techniques using Principal Component Analysis (PCA), K-Means clustering, and Hypothesis Testing. The goal is to analyze trends in music based on various audio features and assess the factors influencing song popularity.
-## Click this link to see visualizations:
-[Spotify Analysis Visualizations](https://wanjing4.github.io/Spotify-Analysis/)
+The goal of this project is to analyze music trends based on various audio features and assess the factors influencing song popularity.
+
 ## Research Questions
-1. Which songs have popularity >= 80, and who are their artists? What are the commonalities of their songs?
-2. Will key and mode affect the song's popularity?
-3. Spotify sometimes recommends songs that have similar audio features. Does the weight on this recommendation algorithm perform well?
+#### 1. Which songs have popularity >= 80, and who are their artists? What are the commonalities of their songs?
+#### 2. Will key and mode affect the song's popularity?
+#### 3. Spotify sometimes recommends songs that have similar audio features. Does the weight on this recommendation algorithm perform well?
 
 ## Key Metrics and Dimensions
 - **Popularity**: The popularity score of each song (range: 0-100).
@@ -17,7 +16,8 @@ This project explores data analysis techniques using Principal Component Analysi
 
 
 ## Summary of Insights
-### Popular Songs Analysis
+### [Popular Songs Analysis](#1.-which-songs-have-popularity->=-80,-and-who-are-their-artists?-what-are-the-commonalities-of-their-songs?)
+
 - High-popularity songs share common attributes in tempo and energy.
 - Some artists consistently produce high-popularity songs, contributing to trends in the industry.
 ### Key and Mode Analysis
