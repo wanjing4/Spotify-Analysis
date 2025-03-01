@@ -4,9 +4,9 @@ Analyzing music trends based on Spotify audio features, song popularity, and rec
 The goal of this project is to analyze music trends based on various audio features and assess the factors influencing song popularity.
 
 ## Research Questions
-### 1. Which songs have popularity >= 80, and who are their artists? What are the commonalities of their songs?
-### 2. Will key and mode affect the song's popularity?
-### 3. Spotify sometimes recommends songs that have similar audio features. Does the weight on this recommendation algorithm perform well?
+#### 1. Which songs have popularity >= 80, and who are their artists? What are the commonalities of their songs?
+#### 2. Will key and mode affect the song's popularity?
+#### 3. Spotify sometimes recommends songs that have similar audio features. Does the weight on this recommendation algorithm perform well?
 
 ## Key Metrics and Dimensions
 - **Popularity**: The popularity score of each song (range: 0-100).
@@ -20,9 +20,9 @@ The goal of this project is to analyze music trends based on various audio featu
 
 - High-popularity songs share common attributes in tempo and energy.
 - Some artists consistently produce high-popularity songs, contributing to trends in the industry.
-### Key and Mode Analysis
+### [Key & Mode Analysis](#will-key-and-mode-affect-the-songs-popularity)
 - Statistical testing showed that certain keys and modes correlate with higher popularity, though not conclusively.
-### Recommendation Algorithm Analysis 
+### [Spotify Recommendation Analysis](#spotify-sometimes-recommends-songs-that-have-similar-audio-features-does-the-weight-on-this-recommendation-algorithm-perform-well)
 - The effectiveness of Spotify’s recommendation system was assessed, with suggestions for improving weighting of audio features.
 
 ## Recommendations & Next Steps
