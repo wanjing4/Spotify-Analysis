@@ -5,7 +5,7 @@ The goal of this project is to analyze music trends based on various audio featu
 
 ## Research Questions
 #### [1. Which songs have popularity >= 80, and who are their artists? What are the commonalities of their songs?](#popular-songs-analysis)
-#### 2. Will key and mode affect the song's popularity?
+#### [2. Will key and mode affect the song's popularity?](#key-&-mode-analysis)
 #### 3. Spotify sometimes recommends songs that have similar audio features. Does the weight on this recommendation algorithm perform well?
 
 ## Key Metrics and Dimensions
