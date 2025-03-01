@@ -25,8 +25,42 @@ The goal of this project is to analyze music trends based on various audio featu
 - 
 ### [Key and Mode Analysis](#will-key-and-mode-affect-the-songs-popularity)
 - Statistical testing showed that certain keys and modes correlate with higher popularity, though not conclusively.
+- bullet point2
+- bullet point3
 ### [Spotify Recommendation Analysis](#spotify-sometimes-recommends-songs-that-have-similar-audio-features-does-the-weight-on-this-recommendation-algorithm-perform-well)
 - The effectiveness of Spotify’s recommendation system was assessed, with suggestions for improving weighting of audio features.
+- bullet point2
+- bullet point
+
+## Process
+
+### Data Source
+The Spotify data was downloaded from Kaggle[Spotify 1 Million Tracks Dataset](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks)
+
+### Data Description
+
+The dataset collected includes about 1 Million tracks with 19 features between 2000 and 2023. Also, there is a total of 61,445 unique artists and 82 genres in the data.
+The features includes:
+- Popularity - Track popularity (0 to 100)
+- Genre - Type of the music
+- Aritist name - The name of person who made the music
+- Year - Year released (2000 to 2023)
+- Danceability - Track suitability for dancing (0.0 to 1.0)
+- Energy - The perceptual measure of intensity and activity (0.0 to 1.0)
+- Key - The key the track is in (0 to 11)
+- Loudness - Overall loudness of track in decibels (-60 to 0 dB)
+- Mode - Modality of the track (Major ‘1’ / Minor ‘0’)
+- Speechiness - Presence of spoken words in the track
+- Acousticness - Confidence measure from 0 to 1 of whether the track is acoustic
+- Instrumentalness - Whether tracks contain vocals (0.0 to 1.0)
+- Liveness - Presence of audience in the recording (0.0 – 1.0)
+- Valence - Musical positiveness (0.0 to 1.0)
+- Tempo - Tempo of the track in beats per minute (BPM)
+- Time_signature - Estimated time signature (3 to 7)
+- Duration_ms - Duration of track in milliseconds
+
+
+
 
 ## Recommendations & Next Steps
 - Feature Selection Improvements: Refine feature selection methods to improve clustering and trend identification.
