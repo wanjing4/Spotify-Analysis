@@ -58,7 +58,14 @@ The features includes:
 - Tempo - Tempo of the track in beats per minute (BPM)
 - Time_signature - Estimated time signature (3 to 7)
 - Duration_ms - Duration of track in milliseconds
+- 
+### Analysis Methods
+- write functions here
+- define input here
 
+### Summary of Analysis output
+- which category does the output belongs and what does it mean?
+- bullet point2
 
 
 
