@@ -20,7 +20,7 @@ The goal of this project is to analyze music trends based on various audio featu
 
 ## Summary of Insights
 ### [Popular Songs Analysis](#custom-details1)
-- Although number of pop music in a whole is lower than other genre, about 30% of high popular music is pop: 
+Although number of pop music in a whole is lower than other genre, about 30% of high popular music is pop: 
 
 <img src="https://github.com/user-attachments/assets/2060300e-3e60-4419-9aee-775295bc621f" alt="Graph 1" width="400">
 
