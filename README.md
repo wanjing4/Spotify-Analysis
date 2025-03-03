@@ -7,7 +7,7 @@ The goal of this project is to analyze music trends based on various audio featu
 <a id="custom-details1"></a>
 #### 1. Which songs have popularity >= 80, and who are their artists? What are the commonalities of their songs? [Go to conclusion](#popular-songs-analysis)
 <a id="custom-details2"></a>
-#### 2. Will key and mode affect the song's popularity?[Go to conclusion](#key-and-mode-analysis)
+#### 2. Will key and mode affect the song's popularity? [Go to conclusion](#key-and-mode-analysis)
 <a id="custom-details3"></a>
 #### 3. Spotify sometimes recommends songs that have similar audio features. Does the weight on this recommendation algorithm perform well? [Go to conclusion](#spotify-recommendation-analysis)
 
@@ -22,6 +22,10 @@ The goal of this project is to analyze music trends based on various audio featu
 ### [Popular Songs Analysis](#custom-details1)
 - Although number of pop music in a whole is lower than other genre, about 30% of high popular music is pop: ![5d501b7f76517a6a3346a89f27605a9](https://github.com/user-attachments/assets/2060300e-3e60-4419-9aee-775295bc621f)
 ![771a53b4677de78927bee97af215d01](https://github.com/user-attachments/assets/7758e6db-e442-4ca5-b1b2-8d31ad90b723)
+
+<img src="https://github.com/user-attachments/assets/2060300e-3e60-4419-9aee-775295bc621f" alt="Graph 1" width="400">
+
+<img src="https://github.com/user-attachments/assets/7758e6db-e442-4ca5-b1b2-8d31ad90b723" alt="Graph 2" width="400">
 
 - Some artists consistently produce high-popularity songs, contributing to trends in the industry.
 - bullet point 3
