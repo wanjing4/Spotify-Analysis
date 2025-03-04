@@ -64,7 +64,31 @@ The features includes:
 - Tempo - Tempo of the track in beats per minute (BPM)
 - Time_signature - Estimated time signature (3 to 7)
 - Duration_ms - Duration of track in milliseconds
-- 
+
+```sql
+  CREATE TABLE Spotify_Data (
+    track_id SERIAL PRIMARY KEY,
+    track_name VARCHAR(255),
+    artist_name VARCHAR(255),
+    genre VARCHAR(100),
+    year INT,
+    popularity INT,
+    danceability FLOAT,
+    energy FLOAT,
+    key INT,
+    loudness FLOAT,
+    mode BOOLEAN, -- 1 for Major, 0 for Minor
+    speechiness FLOAT,
+    acousticness FLOAT,
+    instrumentalness FLOAT,
+    liveness FLOAT,
+    valence FLOAT,
+    tempo FLOAT,
+    time_signature INT,
+    duration_ms INT
+  );
+```
+
 ### Analysis Methods
 - write functions here
 - define input here
