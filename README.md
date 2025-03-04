@@ -67,12 +67,15 @@ The features includes:
 
 ```sql
   CREATE TABLE Spotify_Data (
+    -- Meta data
     track_id SERIAL PRIMARY KEY,
     track_name VARCHAR(255),
     artist_name VARCHAR(255),
     genre VARCHAR(100),
     year INT,
+    -- Popularity score
     popularity INT,
+    -- Audio features
     danceability FLOAT,
     energy FLOAT,
     key INT,
