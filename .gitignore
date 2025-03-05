@@ -1,0 +1,17 @@
+# Ignore IDE settings
+.idea/
+
+# Ignore Jupyter Notebook Checkpoints
+_ipynb_checkpoints/
+
+# Ignore Virtual Environments
+.venv/
+env/
+
+# Ignore compiled files (if any)
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore JetBrains IDE settings (PyCharm, IntelliJ, WebStorm, etc.)
+.idea/workspace.xml
