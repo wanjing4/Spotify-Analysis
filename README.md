@@ -30,7 +30,8 @@ Although number of pop music in a whole is lower than other genre, about 30% of 
 - bullet point 3
 - 
 ### [Key and Mode Analysis](#custom-details2)
-- Statistical testing showed that certain keys and modes correlate with higher popularity, though not conclusively.
+Statistical testing showed that certain keys and modes correlate with higher popularity, though not conclusively.
+<img src="https://github.com/user-attachments/assets/ba99a6ba-b2e8-4707-9041-c8b049a59893" width="400">
 - bullet point2
 - bullet point3
 ### [Spotify Recommendation Analysis](#custom-details3)
