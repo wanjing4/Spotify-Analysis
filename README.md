@@ -36,8 +36,8 @@ Statistical testing showed that certain keys and modes correlate with higher pop
 - bullet point3
 ### [Spotify Recommendation Analysis](#custom-details3)
 - The effectiveness of Spotify’s recommendation system was assessed, with suggestions for improving weighting of audio features.
-- bullet point2
-- bullet point
+- We suggest a removal or minimum weight of using audio feature similarity(when other methods cannot be applied) in the recommendation system.
+- The analysis shows songs with similar audio features do not have similar popularity with a popularity difference range in +- 40
 
 ## Process
 
